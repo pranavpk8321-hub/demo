@@ -1,5 +1,5 @@
 # demo
 this is my first git repository
 <br>
-author=pranav kumar
+author=pranav kumar (NSUT)
 
